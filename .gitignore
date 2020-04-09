@@ -1,0 +1,15 @@
+app/bitrix/html_pages/
+app/bitrix/cache/
+app/bitrix/managed_cache/
+app/bitrix/stack_cache/
+app/bitrix/tmp/
+app/bitrix/stats/
+app/bitrix/.settings.php
+app/bitrix/php_interface/dbconn.php
+app/bitrix/php_interface/.#dbconn.php
+app/bitrix/modules/updater.log
+app/bitrix/modules/updater_partner.log
+app/bitrix/themes/.default/modules.css
+app/vendor/
+app/.idea
+app/.htaccess
