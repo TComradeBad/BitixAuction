@@ -1,1 +1,2 @@
-Deny From All
+php_value mbstring.func_overload 2
+php_value mbstring.internal_encoding UTF-8 
