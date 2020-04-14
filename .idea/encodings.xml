@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/aktivnye-loty/aktivnye-loty.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/aktivnye-loty/list.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/index.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/sozdat-lot.php" charset="UTF-8" />
   </component>
 </project>
