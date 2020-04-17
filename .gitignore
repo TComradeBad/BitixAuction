@@ -13,4 +13,4 @@ app/bitrix/themes/.default/modules.css
 app/vendor/
 app/.idea
 app/.htaccess
-app/upload
+app/upload/*
